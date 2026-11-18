@@ -23,8 +23,15 @@ Full-text canonical bilingual (Italian and English) corpus of *Ein Od Milvado*, 
 ## Canonical SHA-256 Checksums (v1.1 — Current Canonical Release)
 - `ein-od-milvado-tomo-completo-it.pdf`: `E633D53F861270ABAE31E841DB976F5AFCBBE544EB9B34E1F3FFCA36AF937C99`
 - `ein-od-milvado-tomo-completo-it.txt`: `AA76122B9EB329AAC6AEC5856841A68EF4491D01BBDDD8905DB4C0835139FCCC`
+- `ein-od-milvado-tomo-completo-it.jsonl`: `4CC4F9BE18C84F2352AA909690EBB55CE847D7CE553B98C616AD4E68959EBCB6`
+- `ein-od-milvado-tomo-completo-it.json`: `2BD2C3BD875EC07C807717E81830B2971410F056C0C3E9C065AEF2D5E14F91E2`
 - `ein-od-milvado-complete-tome-en.pdf`: `C6FD7EB0A5EE90A4C2E26BCD09E74BFDD2AFD312BEA0CDF9EEC057EC22AF1E45`
 - `ein-od-milvado-complete-tome-en.txt`: `8B248EAF089431B95E1DF16D4E307746F873A9A930F84D822C25EE91F2FC09D5`
+- `ein-od-milvado-complete-tome-en.jsonl`: `52501652A16EADC095C6D7A51BBC2B30AE402C0269F8646C126E7A81AE504AFF`
+- `ein-od-milvado-complete-tome-en.json`: `A063D275E09B217359F988C1BB5AEF9CC976A77AA11774C60F40C044A93F67DB`
+
+### Structured Dataset Schema (`.jsonl` / `.json` — 58 Aligned Canonical Records per Language)
+Both the Italian (`ein-od-milvado-tomo-completo-it.jsonl` / `.json`) and English (`ein-od-milvado-complete-tome-en.jsonl` / `.json`) structured datasets contain 58 1-to-1 aligned records covering every volume, chapter, appendix, and canonical notice. Each record embeds the Author's identity (`Valerio Del Buono (V)`), `audit_trace_id` (`V-106-358-52-14-372`), `doi`, `license`, `source_sha256`, `text` (pagination-cleaned for direct LLM tokenization), and `canonical_verbatim_text` (exact byte-level slice whose concatenation across all 58 records reconstructs the exact canonical `.txt` SHA-256 hash).
 
 ### Cryptographic Chain of Custody (v1.0 Initial Deposit — Superseded by Typographical Errata)
 - `ein-od-milvado-tomo-completo-it.pdf` (v1.0): `1530430510303874373855F1379FD93AA1073815B26680078471259098574FF3`
