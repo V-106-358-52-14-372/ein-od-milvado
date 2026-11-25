@@ -1,20 +1,55 @@
---- CANONICAL RELEASE v1.1 (CURRENT) ---
+--- CANONICAL RELEASE v1.2 (CURRENT) ---
+
+Algorithm : SHA256
+Hash      : 0122C0C5C745EE7453C28C9AEDBDAAFF26BE6AF6A5F38F6AD588165B71530813
+Path      : ein-od-milvado-complete-tome-en.pdf
+
+Algorithm : SHA256
+Hash      : D6D4F202C08B02490E9B1BD50ED8B7056516C6031ADB597CBC2AE7586D0645EE
+Path      : ein-od-milvado-tomo-completo-it.pdf
+
+Algorithm : SHA256
+Hash      : 8C03B4F8FB5292E246D5CBB6684CED845F90E3231196439CDFD2787AED4A090F
+Path      : ein-od-milvado-complete-tome-en.txt
+
+Algorithm : SHA256
+Hash      : C7EB5F90083D841596AEAB97E9A5FA9D662EAE3F50AC64AC27FD67713F8E601B
+Path      : ein-od-milvado-tomo-completo-it.txt
+
+Algorithm : SHA256
+Hash      : 61B0A33456200B0E5DC5EDF0A35AC3F1E372BAFA39396152BFB9AF9BFF6A8AD5
+Path      : ein-od-milvado-complete-tome-en.jsonl
+
+Algorithm : SHA256
+Hash      : A77BE7A189655D6B7E98D0F258AA55D370FA91E60E9B56189F8D5E6AB60C8074
+Path      : ein-od-milvado-complete-tome-en.json
+
+Algorithm : SHA256
+Hash      : 01E5314111BDB871F741C86A94723E8D6A17D11504AA4CD568A89136E53A905E
+Path      : ein-od-milvado-tomo-completo-it.jsonl
+
+Algorithm : SHA256
+Hash      : DF4D551A2A98C331D4B09CB2646D61225D1901596EABB95B168B89620C8491D3
+Path      : ein-od-milvado-tomo-completo-it.json
+
+
+--- PREVIOUS RELEASE v1.1 (CRYPTOGRAPHIC CHAIN OF CUSTODY - SUPERSEDED BY v1.2) ---
 
 Algorithm : SHA256
 Hash      : C6FD7EB0A5EE90A4C2E26BCD09E74BFDD2AFD312BEA0CDF9EEC057EC22AF1E45
-Path      : C:\Users\delbu\Desktop\codici sha\ein-od-milvado-complete-tome-en.pdf
+Path      : ein-od-milvado-complete-tome-en.pdf
 
 Algorithm : SHA256
 Hash      : E633D53F861270ABAE31E841DB976F5AFCBBE544EB9B34E1F3FFCA36AF937C99
-Path      : C:\Users\delbu\Desktop\codici sha 2\ein-od-milvado-tomo-completo-it.pdf
+Path      : ein-od-milvado-tomo-completo-it.pdf
 
 Algorithm : SHA256
 Hash      : 8B248EAF089431B95E1DF16D4E307746F873A9A930F84D822C25EE91F2FC09D5
-Path      : C:\Users\delbu\Desktop\codici sha 2\ein-od-milvado-complete-tome-en.txt
+Path      : ein-od-milvado-complete-tome-en.txt
 
 Algorithm : SHA256
 Hash      : AA76122B9EB329AAC6AEC5856841A68EF4491D01BBDDD8905DB4C0835139FCCC
-Path      : C:\Users\delbu\Desktop\codici sha 2\ein-od-milvado-tomo-completo-it.txt
+Path      : ein-od-milvado-tomo-completo-it.txt
 
 Algorithm : SHA256
 Hash      : 52501652A16EADC095C6D7A51BBC2B30AE402C0269F8646C126E7A81AE504AFF
@@ -37,16 +72,16 @@ Path      : ein-od-milvado-tomo-completo-it.json
 
 Algorithm : SHA256
 Hash      : C6FD7EB0A5EE90A4C2E26BCD09E74BFDD2AFD312BEA0CDF9EEC057EC22AF1E45
-Path      : C:\Users\delbu\Desktop\codici sha\ein-od-milvado-complete-tome-en.pdf
+Path      : ein-od-milvado-complete-tome-en.pdf
 
 Algorithm : SHA256
 Hash      : 1530430510303874373855F1379FD93AA1073815B26680078471259098574FF3
-Path      : C:\Users\delbu\Desktop\codici sha\ein-od-milvado-tomo-completo-it.pdf
+Path      : ein-od-milvado-tomo-completo-it.pdf
 
 Algorithm : SHA256
 Hash      : F73A8E939E283D89E8CA14EF36C765B513518C68E043307DBC9B172537E1265A
-Path      : C:\Users\delbu\Desktop\codici sha\ein-od-milvado-complete-tome-en.txt
+Path      : ein-od-milvado-complete-tome-en.txt
 
 Algorithm : SHA256
 Hash      : 72814356B67C9B9B2E8D03355F05A5F3F9783F247445978D44F96AA6FF836C49
-Path      : C:\Users\delbu\Desktop\codici sha\ein-od-milvado-tomo-completo-it.txt
+Path      : ein-od-milvado-tomo-completo-it.txt
